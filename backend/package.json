@@ -5,7 +5,7 @@
   "scripts": {
     "dev": "nodemon index.js"
   },
-  "author": "Marvin Ma, Frida Pulido",
+  "author": "Marvin Ma, Jordan Ackerman",
   "license": "ISC",
   "description": "",
   "dependencies": {
